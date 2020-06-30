@@ -27,3 +27,26 @@ Assignments in NCTU Computer Vision class (ILE5062)
 
 #### Shanghai
 <img src="HW3/Result/shanghai.png" width="40%">
+<br><br>
+
+## HW4 - Structure from Motion
+<p float="left">
+  <img src="/HW4/result/epipolar_Mesona.png" width="30%" />   
+  <img src="/HW4/result/3D_points_Mesona.png" width="30%" />
+  <img src="/HW4/result/Mesona.png" width="30%" /> 
+</p>
+<p float="left">
+  <img src="/HW4/result/epipolar_Statue.png" width="30%" />   
+  <img src="/HW4/result/3D_points_Statue.png" width="30%" />
+  <img src="/HW4/result/Statue.png" width="30%" /> 
+</p>
+<p float="left">
+  <img src="/HW4/result/epipolar_Box.png" width="30%" />   
+  <img src="/HW4/result/3D_points_Box.png" width="30%" />
+  <img src="/HW4/result/Box.png" width="30%" /> 
+</p>
+<p float="left">
+  <img src="/HW4/result/epipolar_Disney.png" width="30%" />   
+  <img src="/HW4/result/3D_points_Disney.png" width="30%" />
+  <img src="/HW4/result/Disney.png" width="30%" /> 
+</p>
