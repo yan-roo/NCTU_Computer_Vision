@@ -50,3 +50,10 @@ Assignments in NCTU Computer Vision class (ILE5062)
   <img src="/HW4/result/3D_points_Disney.png" width="30%" />
   <img src="/HW4/result/Disney.png" width="30%" /> 
 </p>
+<br><br>
+
+## HW5 - Scene Classifier
+#### Tiny images representation + nearest neighbor classifier: 22% Accuracy
+#### Bag of SIFT representation + nearest neighbor classifier: 59% Accuracy
+#### Bag of SIFT representation + linear SVM classifier: 63% Accuracy
+#### Deep Learning - Convolution Neural Network: 96% Accuracy
